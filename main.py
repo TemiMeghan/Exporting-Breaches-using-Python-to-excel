@@ -4,7 +4,7 @@
 # Create Excel chart on sheets which covers following :
 # BarChart() - We covered this in our class
 # LineChart()
-# ScatterChart()
+# ScatterChart
 # PieChart()
 # Stores the xlxs file with the name breaches1.xlsx
 
